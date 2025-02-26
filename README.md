@@ -57,12 +57,6 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrathakamath&layout=compact&theme=radical" />
 </p>
 
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amrathakamath&theme=dracula&margin-w=15&margin-h=15"/>
-</p>
 
 ---
 
