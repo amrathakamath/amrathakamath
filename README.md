@@ -31,3 +31,6 @@
 
 ## ⚡ Fun Fact  
 I love finding optimized solutions to tricky problems and can spend hours debugging for fun! 🚀  
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
