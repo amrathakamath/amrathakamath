@@ -12,7 +12,7 @@
 ## 🚀 About Me  
 🎓 **3rd-year Information Science student** at Sahyadri College of Engineering & Management  
 💡 Passionate about **Web Development, Software Engineering, and Competitive Programming**  
-🛠️ Strong in **Data Structures, Algorithms, and Backend Development**  
+  
 
 ---
 
@@ -86,12 +86,4 @@ I love finding optimized solutions to tricky problems and can spend hours debugg
 ## 🎯 Random Quote  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)  
 
----
 
-## 🎵 Now Playing  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
-
----
-
-## 🔥 Profile Views  
-![](https://komarev.com/ghpvc/?username=amrathakamath&color=blue)  
