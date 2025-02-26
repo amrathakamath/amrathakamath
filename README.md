@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Amratha D Kamath!  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+# Hi, I’m Amratha D Kamath!  
 
 ## 🚀 About Me  
 🎓 3rd-year Information Science student at Sahyadri College of Engineering & Management.  
@@ -32,5 +33,4 @@
 ## ⚡ Fun Fact  
 I love finding optimized solutions to tricky problems and can spend hours debugging for fun! 🚀  
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
