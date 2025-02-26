@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/amrathakamath">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F7D02C&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+Developer;AI+Enthusiast;Competitive+Programmer;Always+Learning+New+Tech!">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=F7D02C&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Web+Developer;AI+Enthusiast;Competitive+Programmer;Always+Learning+New+Tech!">
   </a>
 </p>
 
